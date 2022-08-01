@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/inventario-dp/static/css/main.1f2d3407.css",
+    "main.js": "/inventario-dp/static/js/main.790e8e58.js",
+    "static/js/787.a6424946.chunk.js": "/inventario-dp/static/js/787.a6424946.chunk.js",
+    "static/media/pc.png": "/inventario-dp/static/media/pc.f675bf8ee61c0e92e139.png",
+    "static/media/escudo_peru.svg": "/inventario-dp/static/media/escudo_peru.a1f770d095f06281c2281f2e3d59b2d3.svg",
+    "index.html": "/inventario-dp/index.html",
+    "main.1f2d3407.css.map": "/inventario-dp/static/css/main.1f2d3407.css.map",
+    "main.790e8e58.js.map": "/inventario-dp/static/js/main.790e8e58.js.map",
+    "787.a6424946.chunk.js.map": "/inventario-dp/static/js/787.a6424946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2d3407.css",
+    "static/js/main.790e8e58.js"
+  ]
+}
